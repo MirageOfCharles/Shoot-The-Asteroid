@@ -4,7 +4,7 @@ I really went down the rabbit hole with GML for this project. It started as one 
 
 ---
 
-Basically there's three types of rocks that try to hit you. You have to handle each one differently. First, the Basic Rock.
+Basically there's three types of rocks that try to hit you. You have to handle each one differently.
 
 <table>
   <tr>
