@@ -1,6 +1,6 @@
 # Shoot The Asteroid!
 
-For this project, I really got into GML. At first, it was just a simple tutorial where you shot rocks. We've all been there. But I kept adding things until it became a full 20-level arcade game. I made the enemy AI from scratch and made sure that the game gets harder as you play so that it stays fun. The game feel was the most important thing to me. I wanted it to be quick and responsive, not floaty. Adding some screen shake and particles makes a game so much better. It really feels like a game now.
+For this project, I really got into GML. At first, it was just a simple tutorial where you shot rocks. We've all been there. But I kept adding things until it became a full 20-level arcade game. I made the enemy AI from scratch and made sure that the game gets harder as you play so that it stays fun. The game feel was the most important thing to me. I wanted it to be quick and responsive, not floaty. Adding some effects and particles makes a game so much better. It really feels like a game now.
 
 ---
 
