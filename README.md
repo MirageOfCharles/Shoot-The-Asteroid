@@ -1,3 +1,3 @@
-## Shoot The Asteroid
+## Shoot The Asteroid!
 
 I really went down the rabbit hole with GML for this project. It started as one of those basic tutorials where you just shoot at rocks. We’ve all been there. But I just kept adding stuff until it turned into a full 20 level arcade game. I wrote the enemy AI from scratch and made sure the difficulty ramps up as you play so it stays a challenge. The big focus for me was the game feel. I wanted it to be snappy and responsive instead of feeling floaty. It is wild how much better a game gets once you add a little screen shake and some particles. It actually feels like a real game now. That was the goal anyway.
